@@ -78,3 +78,8 @@ h2 {
     margin: 0 10px;
   }
 }
+
+p {
+  /* line-height: 32px;    within paragraph */
+  margin-bottom: 30px; /* between paragraphs */
+  }
