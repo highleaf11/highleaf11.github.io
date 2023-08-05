@@ -83,3 +83,7 @@ p {
   /* line-height: 32px;    within paragraph */
   margin-bottom: 30px; /* between paragraphs */
   }
+
+  .nav>li {
+    display: inline-block;
+}
