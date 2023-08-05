@@ -31,6 +31,7 @@ nav {
   grid-area: nav;
   justify-self: right;
   align-self: end;
+  white-space: nowrap;
 }
 
 nav a {
