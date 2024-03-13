@@ -1,11 +1,11 @@
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: Calibri, sans-serif;
   margin: 0 auto;
   max-width: 700px;
   min-width: 0;
   padding: 0 10px 25px;
 
-  color: #444;
+  color: #000000;
 
   display: grid;
   row-gap: 5px;
